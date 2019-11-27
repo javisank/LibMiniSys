@@ -53,3 +53,4 @@ estado_sensor_luz	LITERAL1
 estado_pulsador1	LITERAL1
 estado_pulsador2	LITERAL1
 numero_ingresado	LITERAL1
+contador	LITERAL1

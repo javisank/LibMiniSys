@@ -85,7 +85,8 @@ extern int estado_pulsador1;
 extern int estado_pulsador2;
 extern int numero_ingresado;
 
-
+//Variable contador
+extern int contador;
 
 class Semaforo
 {

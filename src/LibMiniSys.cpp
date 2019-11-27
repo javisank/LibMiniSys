@@ -252,12 +252,15 @@ void finalizar()
 /* ********************************************************************************** */
 
 //Variables para manejo de sensores y pulsadores.
-extern int estado_sensor1=DESACTIVADO;
-extern int estado_sensor2=DESACTIVADO;
-extern int estado_sensor_luz=DIA;
-extern int estado_pulsador1=NO_PRESIONADO;
-extern int estado_pulsador2=NO_PRESIONADO;
-extern int numero_ingresado=0;
+int estado_sensor1=DESACTIVADO;
+int estado_sensor2=DESACTIVADO;
+int estado_sensor_luz=DIA;
+int estado_pulsador1=NO_PRESIONADO;
+int estado_pulsador2=NO_PRESIONADO;
+int numero_ingresado=0;
+
+//Variable contador
+int contador=0;
 
 //Variables de elementos del sistema.
 Buzzer buzzer(pin_Buzzer);
