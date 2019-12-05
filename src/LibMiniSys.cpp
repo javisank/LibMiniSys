@@ -1,6 +1,6 @@
 /*
-  LibSemaforoB.cpp - Libreria para el manejo de la 
-  estacion del cruce de calles con semaforos.
+  LibSemaforoB.h - Libreria para el manejo de la 
+  Placa de Simulación MiniSys.
   Javier Sankowicz.
 */
 
